@@ -87,9 +87,8 @@ Styles Metadata: https://ogc-api.nrw.de/inspire-us-krankenhaus/v1/styles/default
 
 Style in Mapbox Format (JSON): https://ogc-api.nrw.de/inspire-us-krankenhaus/v1/styles/default?f=mbs
 
-The styled map: https://ogc-api.nrw.de/inspire-us-krankenhaus/v1/styles/default?f=html#8/51.5/7.5
 
-`
+```
 {
   "version" : 8,
   "name" : "default",
@@ -125,8 +124,10 @@ The styled map: https://ogc-api.nrw.de/inspire-us-krankenhaus/v1/styles/default?
     }
   } ]
 }
-`
+```
+The styled map: https://ogc-api.nrw.de/inspire-us-krankenhaus/v1/styles/default?f=html#8/51.5/7.5
 
+![ALT](/path/image.ext)
 # References
 
 - DE LA BEAUJARDIERE J. (2006): OpenGIS Web Map Service (WMS) Implementation Specification. http://portal.opengeospatial.org/files/?artifact_id=14416 [2012-11-21] 
